@@ -16,3 +16,20 @@ Advent of Code is an annual programming challenge that runs from December 1 to D
 
 The repository is organized by days, with each day's solution in its respective folder:
 
+📂 advent-of-code-[year] ├── 📁 day01 │ ├── input.txt │ ├── part1.py │ ├── part2.cpp ├── 📁 day02 │ ├── input.txt │ ├── part1.cpp │ ├── part2.py ...
+
+yaml
+Copy code
+
+- **`input.txt`**: The unique input for that day's challenge.
+- **`part1.py` / `part2.cpp`**: Solutions for part 1 and part 2 of the problem.
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/advent-of-code-[year].git
+   cd advent-of-code-[year]
+   ```
