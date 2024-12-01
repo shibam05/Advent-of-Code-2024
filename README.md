@@ -1,5 +1,3 @@
-# Advent-of-Code-2024-
-Advent of Code | 2024
 # 🎄 Advent of Code [2024] 🎄
 
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2024-blue?style=for-the-badge&logo=adventofcode)
@@ -33,3 +31,27 @@ Copy code
    git clone https://github.com/yourusername/advent-of-code-[year].git
    cd advent-of-code-[year]
    ```
+2. Navigate to the day you want to run:
+   ```bash
+   cd day01
+   ```
+
+3. Run the solution script:
+   * For Python:
+     ```bash
+     python part1.py
+     ```
+   * For C++ (after compiling):
+     ```bash
+     g++ part2.cpp -o part2 && ./part2
+     ```
+
+## 🛠️ Tools and Languages
+* Python
+* C++
+
+## 🔗 Useful Links
+* [Advent of Code Official Website](https://adventofcode.com/)
+* [My Profile]()
+
+
