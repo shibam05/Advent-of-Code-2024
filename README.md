@@ -52,6 +52,6 @@ Copy code
 
 ## 🔗 Useful Links
 * [Advent of Code Official Website](https://adventofcode.com/)
-* [My Profile]()
+* [My Profile](https://adventofcode.com/2024/leaderboard?user=shibam05)
 
 
