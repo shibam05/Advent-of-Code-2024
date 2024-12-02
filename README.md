@@ -16,8 +16,6 @@ The repository is organized by days, with each day's solution in its respective 
 
 📂 advent-of-code-[year] ├── 📁 day01 │ ├── input.txt │ ├── part1.py │ ├── part2.cpp ├── 📁 day02 │ ├── input.txt │ ├── part1.cpp │ ├── part2.py ...
 
-yaml
-Copy code
 
 - **`input.txt`**: The unique input for that day's challenge.
 - **`part1.py` / `part2.cpp`**: Solutions for part 1 and part 2 of the problem.
